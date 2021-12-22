@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39227227624",
+    "project_id": "projeto-dart-week-clovis",
+    "storage_bucket": "projeto-dart-week-clovis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39227227624:android:f543d713feaf5ac305785d",
+        "android_client_info": {
+          "package_name": "br.com.clovis.aap_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39227227624-c0p8i4p22sdhsuk0031ho22e2q5lvv8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.clovis.aap_filmes",
+            "certificate_hash": "9062df114a9087dc5a6a7c3e37907777304af26d"
+          }
+        },
+        {
+          "client_id": "39227227624-f80i9tlurvdbqmeor4fgd2quof527i8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzJ5HApojmyQYE7t_1uVP5aRHDRB7hyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39227227624-f80i9tlurvdbqmeor4fgd2quof527i8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
