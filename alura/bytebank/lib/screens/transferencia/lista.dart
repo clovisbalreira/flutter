@@ -18,7 +18,8 @@ class ListaTransferenciaState extends State<ListaTransferencia>{
   @override
   Widget build(BuildContext context){
     return Scaffold(
-      appBar: AppBar(title: Text(_tituloAppBar),),
+      appBar: AppBar(title: Text(_tituloAppBar),
+          backgroundColor: Theme.of(context).primaryColor),
       body: ListView.builder(
         itemCount: widget._transferencias.length,
         itemBuilder: (context, indice){
@@ -28,6 +29,7 @@ class ListaTransferenciaState extends State<ListaTransferencia>{
       ),
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.add),
+        backgroundColor: Theme.of(context).colorScheme.secondary,
         onPressed: () {
           Navigator.push(context, MaterialPageRoute(
               builder: (context){

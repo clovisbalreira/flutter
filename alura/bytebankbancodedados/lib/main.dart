@@ -1,7 +1,10 @@
-import 'package:bytebank/screens/transferencia/lista.dart';
 import 'package:flutter/material.dart';
+import 'package:bytebankbancodedados/screens/dashbords.dart';
 
-void main() => runApp(BytebankApp());
+
+void main() {
+  runApp(BytebankApp());
+}
 
 class BytebankApp extends StatelessWidget {
   @override
@@ -14,12 +17,15 @@ class BytebankApp extends StatelessWidget {
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-            backgroundColor: Colors.blueAccent[700],
-            foregroundColor: Colors.black,
+            backgroundColor: Colors.blueAccent[700], // Cor de fundo do botão
+            foregroundColor: Colors.white, // Cor do texto do botão
           ),
         ),
       ),
-      home: ListaTransferencia(),
+      home: Dashboard()
     );
   }
 }
+
+
+
