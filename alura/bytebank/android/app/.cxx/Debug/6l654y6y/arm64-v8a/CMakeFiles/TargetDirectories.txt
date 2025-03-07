@@ -1,0 +1,2 @@
+D:/git-hub/flutter/alura/bytebank/android/app/.cxx/Debug/6l654y6y/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/git-hub/flutter/alura/bytebank/android/app/.cxx/Debug/6l654y6y/arm64-v8a/CMakeFiles/rebuild_cache.dir

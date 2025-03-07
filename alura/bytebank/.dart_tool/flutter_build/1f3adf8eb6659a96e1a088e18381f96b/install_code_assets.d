@@ -1,0 +1,1 @@
+ D:\\git-hub\\flutter\\alura\\bytebank\\.dart_tool\\flutter_build\\1f3adf8eb6659a96e1a088e18381f96b\\native_assets.json: 
