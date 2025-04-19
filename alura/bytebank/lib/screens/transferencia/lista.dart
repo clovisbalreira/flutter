@@ -18,7 +18,8 @@ class ListaTransferenciaState extends State<ListaTransferencia>{
   @override
   Widget build(BuildContext context){
     return Scaffold(
-      appBar: AppBar(title: Text(_tituloAppBar),
+      appBar: AppBar(
+          title: Text(_tituloAppBar),
           backgroundColor: Theme.of(context).primaryColor),
       body: ListView.builder(
         itemCount: widget._transferencias.length,

@@ -1,16 +1,13 @@
-# bytebank
+Aplicativo de Transferências Bancárias
+Este é um aplicativo prático e eficiente, projetado para facilitar transferências bancárias de forma rápida e segura. Com uma interface intuitiva, ele permite aos usuários:
+- Adicionar informações bancárias, como número da agência.
+- Especificar o valor da transferência.
+- Realizar transferências com rapidez e segurança.
+- Gerenciar e visualizar o histórico de transações realizadas.
 
-Projeto de um banco
+O aplicativo foi desenvolvido com foco em usabilidade e segurança, utilizando boas práticas para proteger os dados dos usuários e garantir uma experiência fluida em dispositivos móveis. Ele é ideal para quem precisa organizar suas finanças e realizar transferências diretamente pelo celular.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tela inicial](assets/screenshots/inicio.png)
+![Tela Transferencia](assets/screenshots/transferencia.png)
+![Tela Transferencia](assets/screenshots/tranferencia_1.png)
+![Tela final](assets/screenshots/final.png)
