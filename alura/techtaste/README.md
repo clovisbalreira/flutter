@@ -13,5 +13,5 @@ O aplicativo foi construído utilizando Flutter, garantindo desempenho nativo ta
 ![Tela Menu](assets/screenshots/menu.png)
 ![Tela Prato](assets/screenshots/prato.png)
 ![Tela Pratos](assets/screenshots/pratos.png)
-![Tela Carrinho](assets/screenshots/carrinho-1.png])
+![Tela Carrinho](assets/screenshots/carrinho-1.png)
 ![Tela Carrinho Frete Gratis](assets/screenshots/carrinho-2.png)
