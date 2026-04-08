@@ -1,16 +1,68 @@
-# cozinhando_casa
+# Cozinhando em Casa
 
-Novo aplicativo da empresa cozinhando casa
+📌 **Descrição**
 
-## Getting Started
+Aplicativo mobile para explorar e compartilhar receitas caseiras. Desenvolvido em Flutter, permite aos usuários visualizar receitas, ingredientes, modo de preparo e favoritar seus pratos favoritos.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- SQLite (armazenar receitas favoritas)
+- Provider (gerenciamento de estado)
+- Image Gallery (exibição de imagens)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Funcionalidades
+
+- Catálogo de receitas
+- Buscar e filtrar receitas
+- Visualizar ingredientes e modo de preparo
+- Favoritação de receitas
+- Avaliação de receitas
+- Compartilhamento de receitas
+
+---
+
+## 🖥️ Demonstração
+
+Este é um projeto de aprendizado. Execute localmente seguindo as instruções abaixo.
+
+---
+
+## 📸 Imagens
+
+(Adicione screenshots do aplicativo aqui)
+
+---
+
+## ▶️ Como Rodar
+
+1. **Clone o repositório**
+   ```bash
+   cd alura/cozinhando_casa
+   ```
+
+2. **Instale as dependências**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Execute o aplicativo**
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📚 Aprendizados
+
+- Interface responsiva e atraente
+- Navegação entre telas
+- Listagens com scroll infinito
+- Armazenamento de favoritos
+- Integração com galeria de imagens
+- Boas práticas de UI/UX em Flutter
